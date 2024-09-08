@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayanmoulick.github.io/sitemap.xml
+Host: https://sayanmoulick.github.io
